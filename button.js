@@ -1,3 +1,4 @@
+console.log("Hi")
 var btn5 = document.getElementById("btn5")
 
 var buttons = document.getElementsByTagName("button")
